@@ -1,4 +1,4 @@
-module go-CURD
+module go-CRUD
 
 go 1.18
 
